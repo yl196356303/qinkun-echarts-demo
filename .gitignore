@@ -1,0 +1,5 @@
+micro-app/node_modules/
+micro-app/dist/
+main/node_modules/
+main/dist/
+/node_modules
